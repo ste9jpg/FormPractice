@@ -8,6 +8,7 @@ body{
   margin:2rem auto;
   border:2px solid #f2f2f2;
   padding: 2rem;
+  border-radius: 5px;
   label{
 	  display:block;
 	  padding: 1rem 0 .25rem;
@@ -19,6 +20,7 @@ body{
 	  width:100%;
 	  padding: .5rem;
 	  font-size: 18px;
+      border-radius: 5px;
   }
   
 }
@@ -33,6 +35,6 @@ body{
 	text-transform: uppercase;
 	cursor:pointer;
 	&: hover{
-		background: #595959
+		background: #595959;
 	}
 }
