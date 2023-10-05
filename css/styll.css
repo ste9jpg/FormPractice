@@ -12,3 +12,17 @@
   }
   
 }
+
+#sendBtn{
+	border:0;
+	background:#737373;
+	padding: .rem;
+	color: white;
+	margin: 1rem 0;
+	width: auto;
+	text-transform: uppercase;
+	cursor:pointer;
+	&: hover{
+		background: #595959
+	}
+}
